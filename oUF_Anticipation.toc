@@ -1,0 +1,7 @@
+## Interface: 60000
+## Author: Lyn
+## Version: 1
+## Title: oUF_Anticipation
+## Notes: Simple oUF plugin for tracking Anticipation stacks like Combo Points
+
+oUF_Anticipation.lua
