@@ -3,7 +3,10 @@ oUF_Anticipation
 
 Simple Plugin for oUF for tracking Anticipation stacks like Combo Points
 
-## Usage
+*Written for Warlods of Draenor Beta. Should also work on Live if you change the .toc to 50400*
+
+Usage
+-------------
 
 Using the Plugin in your layout is as easy as it is for the oUF built in Combo Point display.
 
@@ -23,7 +26,8 @@ Using the Plugin in your layout is as easy as it is for the oUF built in Combo P
     self.Anticipation = Anticipation
     
 
-## Hooks
+Hooks
+-------------
 
 You can completely override the Update function
 
